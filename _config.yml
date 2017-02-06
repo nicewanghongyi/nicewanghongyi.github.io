@@ -17,9 +17,9 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
-location: Beijing, China
+organization: Google, Inc.
+organization_url: https://www.google.com
+location: Wuhan, China
 email: nos414184395@163.com
 
 # ---------------- #
@@ -82,7 +82,7 @@ repository: mzlogin/mzlogin.github.io
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: nos414184395
+github_username: nicewanghongyi
 douban_username: nos414184395
 facebook_username: nos414184395
 weibo_username: nice_why
