@@ -38,13 +38,13 @@ navs:
     href: /wiki/
     label: 维基
 
-  -
-    href: /links/
-    label: 链接
+  #-
+  #  href: /links/
+  #  label: 链接
 
-  -
-    href: /about/
-    label: 关于
+  #-
+  #  href: /about/
+  #  label: 关于
 
 # ---------------- #
 #       RSS        #
