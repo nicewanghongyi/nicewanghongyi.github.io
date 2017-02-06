@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
-date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+url: https://nicewanghongyi.github.io
+date_format: "nicewhy"
+title: Life
+subtitle: "Life"
+description: "NiceWHY的个人博客"
+keywords: Life, NiceWHY, Nice
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -20,7 +20,7 @@ author: Zhuang Ma
 organization: Sogou, Inc.
 organization_url: https://www.sogou.com
 location: Beijing, China
-email: chumpma@gmail.com
+email: nos414184395@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -82,12 +82,12 @@ repository: mzlogin/mzlogin.github.io
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: nos414184395
+douban_username: nos414184395
+facebook_username: nos414184395
+weibo_username: nice_why
+zhihu_username: nos84848235
+twitter_username: nos84848235
 
 # ---------------- #
 #      Comments    #
@@ -96,8 +96,8 @@ twitter_username: mzlogin
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
-disqus_username: mzlogin
+duoshuo_username: nice_why
+disqus_username: nos84848235
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: true
 
