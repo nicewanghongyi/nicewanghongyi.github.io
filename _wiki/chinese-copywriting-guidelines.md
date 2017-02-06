@@ -6,7 +6,7 @@ description: 中文文案排版指北（简体中文版）。
 keywords: 中文文案排版指北
 ---
 
-GitHub repository: [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)
+GitHub repository: [chinese-copywriting-guidelines](https://nicewanghongyi.github.io/wiki/chinese-copywriting-guidelines/)
 
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
@@ -240,35 +240,35 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 ## 工具
 
-| 仓库                                                                                                                            | 语言            |
-|---------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)                                                   | JavaScript      |
-| [huei90/pangu.node](https://github.com/huei90/pangu.node)                                                                       | Node.js         |
-| [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct)                                                               | Ruby            |
-| [sparanoid/space-lover](https://github.com/sparanoid/space-lover)                                                               | PHP (WordPress) |
-| [nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct)                                                                 | PHP             |
-| [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim)                                                                           | Vim             |
-| [sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing)                                                 | Node.js (Grunt) |
+| 仓库                                       | 语言              |
+| ---------------------------------------- | --------------- |
+| [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript      |
+| [huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js         |
+| [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby            |
+| [sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress) |
+| [nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct) | PHP             |
+| [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) | Vim             |
+| [sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing) | Node.js (Grunt) |
 | [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python          |
 
 ## 谁在这样做？
 
-| 网站                                              | 文案 | UGC          |
-|---------------------------------------------------|------|--------------|
-| [Apple 中国](http://www.apple.com/cn/)            | Yes  | N/A          |
-| [Apple 香港](http://www.apple.com/hk/)            | Yes  | N/A          |
-| [Apple 台湾](http://www.apple.com/tw/)            | Yes  | N/A          |
-| [Microsoft 中国](http://www.microsoft.com/zh-cn/) | Yes  | N/A          |
-| [Microsoft 香港](http://www.microsoft.com/zh-hk/) | Yes  | N/A          |
-| [Microsoft 台湾](http://www.microsoft.com/zh-tw/) | Yes  | N/A          |
-| [LeanCloud](https://leancloud.cn/)                 | Yes  | N/A          |
-| [知乎](https://www.zhihu.com/)                     | Yes  | 部分用户达成 |
-| [V2EX](https://www.v2ex.com/)                      | Yes  | Yes          |
-| [SegmentFault](https://segmentfault.com/)          | Yes  | 部分用户达成 |
-| [Apple4us](http://apple4us.com/)                  | Yes  | N/A          |
-| [豌豆荚](https://www.wandoujia.com/)               | Yes  | N/A          |
-| [Ruby China](https://ruby-china.org/)              | Yes  | 标题达成     |
-| [PHPHub](https://phphub.org/)                      | Yes  | 标题达成     |
+| 网站                                       | 文案   | UGC    |
+| ---------------------------------------- | ---- | ------ |
+| [Apple 中国](http://www.apple.com/cn/)     | Yes  | N/A    |
+| [Apple 香港](http://www.apple.com/hk/)     | Yes  | N/A    |
+| [Apple 台湾](http://www.apple.com/tw/)     | Yes  | N/A    |
+| [Microsoft 中国](http://www.microsoft.com/zh-cn/) | Yes  | N/A    |
+| [Microsoft 香港](http://www.microsoft.com/zh-hk/) | Yes  | N/A    |
+| [Microsoft 台湾](http://www.microsoft.com/zh-tw/) | Yes  | N/A    |
+| [LeanCloud](https://leancloud.cn/)       | Yes  | N/A    |
+| [知乎](https://www.zhihu.com/)             | Yes  | 部分用户达成 |
+| [V2EX](https://www.v2ex.com/)            | Yes  | Yes    |
+| [SegmentFault](https://segmentfault.com/) | Yes  | 部分用户达成 |
+| [Apple4us](http://apple4us.com/)         | Yes  | N/A    |
+| [豌豆荚](https://www.wandoujia.com/)        | Yes  | N/A    |
+| [Ruby China](https://ruby-china.org/)    | Yes  | 标题达成   |
+| [PHPHub](https://phphub.org/)            | Yes  | 标题达成   |
 
 ## 参考文献
 
